@@ -1,0 +1,17 @@
+#game {
+  background-color: black;
+  width: 777px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden; }
+
+#cannon {
+  position: absolute;
+  top: 571px;
+  left: 385px; }
+
+.alien {
+  position: absolute; }
+
+/*# sourceMappingURL=main.css.map */
